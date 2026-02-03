@@ -92,16 +92,6 @@ Whether you're preparing for **coding interviews**, **competitive programming**,
 DSA-Python/
 │
 ├── Basics/
-├── Datatypes/
-├── Searching_Sorting/
-├── Recursion_Backtracking/
-├── Linked_List/
-├── Stack_Queue/
-├── Hashing/
-├── Trees/
-├── Heaps/
-├── Graphs/
-├── Dynamic_Programming/
 └── README.md
 ```
 
